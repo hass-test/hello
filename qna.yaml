@@ -1,0 +1,45 @@
+created_by: IBM
+domain: Technology
+seed_examples:
+
+  - question: "What is the full form of NCAI-NUST?"
+    answer: "NCAI stands for National Center of Artificial Intelligence, and NUST stands for National University of Sciences and Technology."
+
+  - question: "What are the main research areas of NCAI at NUST?"
+    answer: "The main research areas of NCAI include Machine Learning, Computer Vision, Natural Language Processing, Robotics, Data Science, AI for Healthcare, Agriculture, Smart Cities, and Autonomous Systems."
+
+  - question: "How does NCAI-NUST contribute to AI startups?"
+    answer: "NCAI provides infrastructure, mentorship, and support to entrepreneurs to develop AI-based products and services, fostering innovation and contributing to the growth of AI startups in Pakistan."
+
+  - question: "What is the mission of NCAI-NUST?"
+    answer: "The mission of NCAI is to promote research, innovation, and development in Artificial Intelligence, addressing national challenges and collaborating with academia, industry, and the government to drive AI-driven solutions."
+
+  - question: "How does NCAI collaborate with other institutions?"
+    answer: "NCAI collaborates with national and international academic institutions, private companies, and government bodies to advance research and application of AI technologies in various fields."
+
+  - question: "What initiatives does NCAI-NUST undertake in the field of AI for healthcare?"
+    answer: "NCAI-NUST is involved in AI for healthcare projects like smart health monitoring systems, early disease diagnosis through AI algorithms, and developing AI-driven solutions to improve patient care and healthcare management."
+
+  - question: "What is the role of NCAI in AI for agriculture?"
+    answer: "NCAI contributes to AI in agriculture by researching and developing AI tools for precision farming, crop disease detection, yield prediction, and automated farming techniques to improve agricultural productivity."
+
+  - question: "Which sectors benefit from NCAI's research in Artificial Intelligence?"
+    answer: "NCAI’s research impacts sectors such as defense, healthcare, agriculture, smart cities, autonomous systems, and transportation, aiming to improve efficiency and solve complex problems through AI solutions."
+
+  - question: "How does NCAI-NUST address societal challenges?"
+    answer: "NCAI addresses societal challenges by developing AI-driven solutions such as intelligent transportation systems, public health monitoring, and tools for disaster management, aiming to enhance public welfare."
+
+  - question: "What kind of training and education programs are offered by NCAI?"
+    answer: "NCAI offers a variety of training programs, workshops, and courses in Artificial Intelligence, Data Science, and related fields for students, researchers, and industry professionals to enhance their technical skills."
+
+  - question: "What are some notable projects NCAI has worked on?"
+    answer: "Some notable projects include AI-based health monitoring systems, AI tools for precision agriculture, intelligent transport systems, and AI-based solutions for defense and national security."
+
+  - question: "How does NCAI-NUST contribute to autonomous systems research?"
+    answer: "NCAI conducts research on autonomous systems, including autonomous vehicles, drones, and robotics, aiming to enhance their efficiency and safety through AI algorithms and real-time decision-making systems."
+
+  - question: "How is NCAI-NUST helping Pakistan in terms of AI development?"
+    answer: "NCAI is positioning Pakistan as a key player in the AI field by fostering innovation, training the next generation of AI professionals, supporting AI startups, and collaborating with industries to develop AI-driven solutions for national challenges."
+
+task_description: "To teach a language model about the National Center of Artificial Intelligence (NCAI) at NUST, its mission, research areas, collaborations, societal impact, and contributions to AI development in Pakistan."
+
